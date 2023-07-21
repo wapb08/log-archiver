@@ -1,0 +1,22 @@
+{
+    "name": "pradeep/log-archiver",
+    "description": "Codeigniter log archiver",
+    "type": "library",
+    "require": {
+        "php": ">=7",
+        "aws/aws-sdk-php": "^3.276"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "LogArchiver\\": "src/LogArchiver"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pradeep",
+            "email": "pradeepsenevirathne08@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
