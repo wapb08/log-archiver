@@ -1,5 +1,5 @@
 {
-    "name": "pradeep/log-archiver",
+    "name": "wapb08/log-archiver",
     "description": "Codeigniter log archiver",
     "type": "library",
     "require": {
